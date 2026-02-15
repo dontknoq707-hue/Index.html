@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://missionjeet-in.vercel.app/sitemap.xml
